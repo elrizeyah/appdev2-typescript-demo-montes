@@ -1,10 +1,9 @@
-let age: any = 31
+let age: any = 24;
 
-// ...
+// reassign different types to test "any"
+age = 24;
+age = true;
+age = {};
+age = [];
 
-age = '31'
-age = true
-age = {}
-age = []
-
-console.log(typeof age)
+console.log(typeof age);
