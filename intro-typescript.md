@@ -34,16 +34,20 @@ tsc filename.ts
 ```
 
 ## 01-basics.ts
-Demonstrates **type inference**, **explicit typing**, and what happens when assigning mismatched types.
+Shows type inference, explicit typing, and errors when assigning the wrong type.
 
 ## 02-vanilla-js-types.js
-Shows how JavaScript’s `typeof` operator works to check variable types at runtime.
+Demonstrates JavaScript typeof for checking data types at runtime.
 
 ## 03-flexible-types.ts
-Illustrates the `any` type, allowing reassignment to different types and showing its flexibility (and risks).
+Demonstrates JavaScript typeof for checking data types at runtime.
 
 ## 04-arrays-objects.ts
-Covers arrays with union types, object typing with nested properties, and the `Record` type for flexible objects.
+Covers typed arrays, object structures (including nested types), and Record for key-value objects.
 
 ## 05-enum.ts
-Introduces enums, specifically string enums, and shows how to assign `enum` values properly.
+Introduces enums, especially string enums, and how to use them for fixed values.
+
+## 06-alternative-to-enum.ts
+Shows how string literal types can replace enums by limiting values to a fixed set and controlling function inputs.
+
