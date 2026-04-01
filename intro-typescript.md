@@ -53,3 +53,6 @@ Shows how string literal types can replace enums by limiting values to a fixed s
 
 ## 07-custom-type-role.ts
 Shows how to create a custom type for roles using string literal unions to enforce strict allowed values in TypeScript.
+
+## 08-function-return-types.ts
+Covers function return types in TypeScript including number, void, and never, as well as function types, callbacks, and typing object methods using interfaces or custom types.
