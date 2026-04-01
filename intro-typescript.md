@@ -56,3 +56,7 @@ Shows how to create a custom type for roles using string literal unions to enfor
 
 ## 08-function-return-types.ts
 Covers function return types in TypeScript including number, void, and never, as well as function types, callbacks, and typing object methods using interfaces or custom types.
+
+## 09-special-types.ts
+Covers special TypeScript types like null and undefined, including strict typing and union types (null | string, undefined | string) to control allowed values.
+
