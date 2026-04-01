@@ -51,3 +51,5 @@ Introduces enums, especially string enums, and how to use them for fixed values.
 ## 06-alternative-to-enum.ts
 Shows how string literal types can replace enums by limiting values to a fixed set and controlling function inputs.
 
+## 07-custom-type-role.ts
+Shows how to create a custom type for roles using string literal unions to enforce strict allowed values in TypeScript.
