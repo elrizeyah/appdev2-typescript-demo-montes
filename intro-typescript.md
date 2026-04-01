@@ -60,3 +60,5 @@ Covers function return types in TypeScript including number, void, and never, as
 ## 09-special-types.ts
 Covers special TypeScript types like null and undefined, including strict typing and union types (null | string, undefined | string) to control allowed values.
 
+## 10-type-narrowing.ts
+Covers type narrowing in TypeScript, showing how to safely handle null values, DOM elements, and different possible types using checks, type assertions, non-null assertion (!), and optional chaining (?.).
