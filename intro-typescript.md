@@ -62,3 +62,6 @@ Covers special TypeScript types like null and undefined, including strict typing
 
 ## 10-type-narrowing.ts
 Covers type narrowing in TypeScript, showing how to safely handle null values, DOM elements, and different possible types using checks, type assertions, non-null assertion (!), and optional chaining (?.).
+
+## 11-optional.ts
+Covers optional parameters and optional object properties using ?, along with nullish coalescing (??) and logical OR (||) to handle missing, null, undefined, or falsy values safely.
